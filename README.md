@@ -1,0 +1,1 @@
+# straal-Magento2Plugin
